@@ -3,9 +3,7 @@
 >
 >[不想白嫖的就来这投个币吧](https://download.csdn.net/download/weixin_44940258/12918435)
 
-
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201011133858195.png#pic_center)
+<div align=center><img src = "https://img-blog.csdnimg.cn/20201011133858195.png"></div>
 
 <br/>
 
@@ -23,12 +21,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 <center> <font size = 3> 
 <table>
@@ -57,8 +49,6 @@
 <br/>
 <br/>
 
-
-
 <div STYLE="page-break-after: always;"></div>
 <!-- 此处用于换行 -->
 
@@ -67,8 +57,6 @@
 
 
 掌握最小二乘法求解（无惩罚项的损失函数）、掌握加惩罚项（2范数）的损失函数优化、梯度下降法、共轭梯度法、理解过拟合、克服过拟合的方法(如加惩罚项、增加样本)
-
-
 
 
 # 2 实验要求及实验环境
