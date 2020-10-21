@@ -110,7 +110,7 @@ def my_test(lamda, eta, epsilon, mean_neg, var_neg, size_neg, mean_pos, var_pos,
     discriminant = np.poly1d(coefficient[::-1])
     print('Train data accuracy:', accuracy(train_x, train_y, w))
     show_2D(train_x, train_y, discriminant, 'Train data')
-    test_x, test_y = generate_data(mean_neg, var_neg, 2*size_neg, mean_pos, var_pos, 2*size_pos)
+    test_x, test_y = generate_data(mean_neg, var_neg, 4*size_neg, mean_pos, var_pos, 4*size_pos)
     print('Test data accuracy:', accuracy(test_x, test_y, w))
     show_2D(test_x, test_y, discriminant, 'Test data')
 
