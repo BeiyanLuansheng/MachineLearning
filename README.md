@@ -4,7 +4,7 @@
 
 - [x] Lab1：多项式拟合正弦曲线
 
-- [ ] Lab2：Logistics Regression 逻辑回归
+- [x] Lab2：Logistics Regression 逻辑回归
 
 - [ ] Lab3：EM算法求解GMM模型
 
