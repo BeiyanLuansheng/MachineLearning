@@ -1,6 +1,6 @@
 # 哈工大2020秋机器学习Lab3 EM算法
 
-[CSDN博客：哈工大2020秋机器学习Lab3实验报告](https://blog.csdn.net/weixin_44940258/article/)
+[CSDN博客：哈工大2020秋机器学习Lab3实验报告](https://blog.csdn.net/weixin_44940258/article/details/109510476)
 
 
 
