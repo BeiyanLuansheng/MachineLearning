@@ -1,6 +1,6 @@
 # 哈工大2020秋机器学习Lab4 PCA
 
-[CSDN博客：哈工大2020秋机器学习Lab4实验报告]()
+[CSDN博客：哈工大2020秋机器学习Lab4实验报告](https://blog.csdn.net/weixin_44940258/article/details/109652240)
 
 
 
